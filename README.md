@@ -7,8 +7,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp; [Git Commit message 참고](#commit-command-type)👍<br><br>
 [다음까지 숙제]<br>
 
-    1. eclipse 설치
-    2. sts 4 eclipse 버전으로 설치
+    1. backend 환경 설정 완료하기 (<a href="https://github.com/The-Greatest-Study/tgs_backend">tgs_backend README 참고</a>)
 
 ---
 
@@ -27,6 +26,8 @@
 김민호 사원은 M2M으로.. 잘가요..
 
 오지인 사원은 수미납에서.. 죽어갑니다..
+
+김민지 사원은 상암 3일 견학 후 마곡으로.. 안녕..
 ```
 
 ---
