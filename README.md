@@ -7,7 +7,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp; [Git Commit message 참고](#commit-command-type)👍<br><br>
 [다음까지 숙제]<br>
 
-    1. backend 환경 설정 완료하기 (<a href="https://github.com/The-Greatest-Study/tgs_backend">tgs_backend README 참고</a>)
+    1. backend 환경 설정 완료하기 - <a href="https://github.com/The-Greatest-Study/tgs_backend">tgs_backend README 참고</a>
 
 ---
 
