@@ -37,7 +37,7 @@
 | 01/25 | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72412) | [Go](https://github.com/UpWook/StudyGo/blob/main/algorithm%20code/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level3/fare_of_share_taxi.py) | 플로이드 와샬 알고리즘 / min() 함수보다는 조건문이 빠르다. |
 | 01/26 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [Go](https://github.com/UpWook/StudyGo/blob/main/algorithm%20code/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level2/flawless_square.py) | 유클리드 호제법 |
 | 01/27 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [Go](https://github.com/UpWook/StudyGo/blob/main/algorithm%20code/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level2/remove_pairs.py) |  |
-| 01/28 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [Go](https://github.com/UpWook/StudyGo/blob/main/algorithm%20code/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level2/convert_parenthesis.py) | 미완 |
+| 01/28 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [Go](https://github.com/UpWook/StudyGo/blob/main/algorithm%20code/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level2/convert_parenthesis.py) | 다시풀기 |
 
 </br>
 
