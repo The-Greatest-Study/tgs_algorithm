@@ -38,7 +38,7 @@
 | 01/26 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [Go](https://github.com/UpWook/StudyGo/blob/main/algorithm%20code/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level2/flawless_square.py) | 유클리드 호제법 |
 | 01/27 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [Go](https://github.com/UpWook/StudyGo/blob/main/algorithm%20code/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level2/remove_pairs.py) |  |
 | 01/28 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [Go](https://github.com/UpWook/StudyGo/blob/main/algorithm%20code/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level2/convert_parenthesis.py) | 다시풀기 |
-| 2023/01/25 | [택배배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [Go](https://github.com/The-Greatest-Study/tgs_algorithm/blob/master/%EA%B9%80%EB%AF%BC%ED%98%B8/Programmers/Level2/deliveriesAndPickups.py) | |
+| 2023/01/25 | [택배배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [Go](./Programmers/Level2/deliveriesAndPickups.py) | |
 
 
 </br>
